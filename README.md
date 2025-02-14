@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vfg2006/vfg2006/output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
 
 <div align="center">
