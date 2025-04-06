@@ -39,5 +39,4 @@ Tenho forte atuação na modernização de sistemas legados e mentoria de equipe
 
 Sempre em busca de aprendizado contínuo e inovação, atuo com foco em entregar valor real para o negócio e criar soluções sustentáveis, escaláveis e de impacto.
 
----
 
